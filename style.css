@@ -1,0 +1,54 @@
+.bg-imag{
+background-image: url(bg-1.png);
+background-repeat: no-repeat;
+position: relative;
+background-position: center;
+background-size: 55px;
+
+}
+.btn-buy{
+  color: white;
+  background-color: black;
+}
+.btn-buy:hover{
+  color: white;
+  background-color:#FF9C35;
+}
+.carousel-control-next, .carousel-control-prev {
+  width: 2%;
+}
+.carousel-indicators [data-bs-target] {
+  width: 22px;
+  height: 5px;
+  border-radius: 12px;
+  background-color: #FF9C35;
+}
+.orange-all{
+  color: #FF9C35;
+}
+.card{
+
+border: none;
+border-radius: 10px;
+box-shadow: 3px 3px 8px lightgray;
+}
+/* .categories{
+  border-bottom: 4px solid red;
+  
+} */
+.bottomborder{
+  height: 5px;
+  width: 20px;
+  background-color: red;
+}
+.hr-style{
+  border: 5px solid #f45f08;
+  border-bottom: none;
+  border-radius: 5px;
+  width: 90px;
+  z-index: 6;
+  
+}
+.cat{
+  box-shadow: 5px 5px 8px 5px lightgrey;
+}
